@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m a recent graduate from masters in computer science and actively interviewing for a full-time opportunity as a Software Engineer / Data Engineer <br>🌱 I’m currently learning more about Django, SQL and focusing my efforts on having an understanding of HTML, CSS and JavaScript<br>💬 Ask me about Software Engineering, Docker, Kubernetes, GitOps Methodology<br>⚡ Fun fact: There are 10 types of people in the world: those who understand binary, and those who don’t.
+🔭 I’m a recent graduate from masters in computer science and actively interviewing for a full-time opportunity as a Software / Data Engineer <br>🌱 I’m currently learning more about Django, SQL and focusing my efforts on having an understanding of HTML, CSS and JavaScript<br>💬 Ask me about Software Engineering, Docker, Kubernetes, GitOps Methodology<br>⚡ Fun fact: There are 10 types of people in the world: those who understand binary, and those who don’t.
 
 
 ## 🌐 Socials:
